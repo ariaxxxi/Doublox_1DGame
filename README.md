@@ -1,5 +1,9 @@
 # Doublox - 1DGame
+
+Play it here! https://ariaxxxi.github.io/doublox.github.io/
+
 This is a 1D co-op puzzle game where two players, controlling a white cube and a black cube respectively, must work together to solve puzzles and progress through levels. The goal of the game is to push the colored boxes colliding with the boxes of the same color.
+
 The player who plays the white cube, controlling J and L, works as collider and can push the colored box. The black cube controlled by A and D has the ability to mask the colored box, making it invisible to obstacles and allowing the white cube to pass through.
 
 
